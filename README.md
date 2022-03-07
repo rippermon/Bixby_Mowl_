@@ -80,7 +80,7 @@ Please read below to fix all errors👇
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ItsMeRafi/Miss-Helena-QR?v=1)
   )
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/RIPPER-SER/_Bixby_Mowl_)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/RIPPER-SER/Bixby_Mowl_)
      </div>
 <br>
 <br >
